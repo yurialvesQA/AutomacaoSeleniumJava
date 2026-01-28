@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Report Theme -->
+        <!-- STANDARD, DARK -->
+        <theme>STANDARD</theme>
+        
+        <!-- Document Title -->
+        <documentTitle>Vehicle Insurance Automation - Test Report</documentTitle>
+        
+        <!-- Name of the Report -->
+        <reportName>Test Execution Report</reportName>
+        
+        <!-- Timestamp Format -->
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+        
+        <!-- Custom CSS -->
+        <css>
+            .nav-wrapper { background-color: #1e88e5 !important; }
+            .brand-logo { padding: 0 20px !important; }
+        </css>
+        
+        <!-- Custom JavaScript -->
+        <js>
+        </js>
+    </configuration>
+</extentreports>
