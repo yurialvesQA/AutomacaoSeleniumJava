@@ -171,10 +171,3 @@ O projeto captura automaticamente screenshots em pontos estratégicos:
 
 Todos os screenshots são salvos em `target/screenshots/` e anexados automaticamente aos relatórios.
 
-## 👤 Autor
-
-Projeto criado para automação de testes do formulário Tricentis Vehicle Insurance.
-
-## 📄 Licença
-
-Este projeto é de uso educacional.
